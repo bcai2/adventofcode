@@ -1,5 +1,5 @@
 # from utils import utils
-import re, heapq
+import re, heapq, bisect
 
 def part1():
     ans = 0
